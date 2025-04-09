@@ -49,7 +49,7 @@ Road safety remains a critical issue globally. By visualizing and analyzing hist
 
 ## Project Preview
 
-![Road Accident Dashboard](IMG_20250409_013654.jpg)
+![Road Accident Dashboard](https://github.com/MonicaAniedobe/FUTURE_DS_03/commit/f97b7cfd61e1bae5017972ddd1ba413c840d33f3)
 
 ## Future Improvements
 
